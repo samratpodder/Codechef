@@ -1,0 +1,1 @@
+{"name":"Local: OLYRANK","url":"d:\\Source Codes\\Github Repositories\\Codechef\\OLYRANK.java","tests":[{"id":1628333912987,"input":"3\n10 20 30 0 29 30\n0 0 0 0 0 1\n1 1 1 0 0 0","output":"1\n2\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Source Codes\\Github Repositories\\Codechef\\OLYRANK.java","group":"local","local":true}

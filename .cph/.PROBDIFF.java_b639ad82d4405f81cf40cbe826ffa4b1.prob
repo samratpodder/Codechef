@@ -1,0 +1,1 @@
+{"name":"Local: PROBDIFF","url":"d:\\Source Codes\\Github Repositories\\Codechef\\PROBDIFF.java","tests":[{"id":1628334126521,"input":"4\n2 2 2 2\n1 4 3 2\n4 5 5 5\n2 2 4 3","output":"0\n2\n1\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Source Codes\\Github Repositories\\Codechef\\PROBDIFF.java","group":"local","local":true}
