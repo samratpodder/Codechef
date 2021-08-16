@@ -1,0 +1,1 @@
+{"name":"Local: ARRFILL","url":"d:\\Source Codes\\Github Repositories\\Codechef\\ARRFILL.java","tests":[{"id":1628535532310,"input":"3\n10 1\n5 2\n8 2\n5 2\n6 3\n3 2\n2 2\n1 3","output":"25\n41\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Source Codes\\Github Repositories\\Codechef\\ARRFILL.java","group":"local","local":true}
