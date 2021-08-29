@@ -1,0 +1,1 @@
+{"name":"Local: HARDBET","url":"d:\\Source Codes\\Github Repositories\\Codechef\\HARDBET.java","tests":[{"id":1630233506584,"input":"3\n1 4 2\n16 8 10\n14 15 9","output":"Draw\nBob\nAlice"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Source Codes\\Github Repositories\\Codechef\\HARDBET.java","group":"local","local":true}
