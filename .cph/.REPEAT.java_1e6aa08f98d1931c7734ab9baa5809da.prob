@@ -1,0 +1,1 @@
+{"name":"Local: REPEAT","url":"d:\\Source Codes\\Github Repositories\\Codechef\\REPEAT.java","tests":[{"id":1630234412703,"input":"3\n3 2 14\n5 4 28\n2 3 10","output":"5\n1\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Source Codes\\Github Repositories\\Codechef\\REPEAT.java","group":"local","local":true}
