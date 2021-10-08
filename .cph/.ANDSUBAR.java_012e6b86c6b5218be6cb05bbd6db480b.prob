@@ -1,0 +1,1 @@
+{"name":"Local: ANDSUBAR","url":"d:\\Codes\\GitHub\\Codechef\\ANDSUBAR.java","tests":[{"id":1633416708738,"input":"6\n1\n2\n3\n4\n7\n16","output":"1\n1\n2\n2\n4\n8"},{"id":1633458240828,"input":"2\n9\n15","output":"4\n8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Codes\\GitHub\\Codechef\\ANDSUBAR.java","group":"local","local":true}
